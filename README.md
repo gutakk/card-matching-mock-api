@@ -1,6 +1,6 @@
 # Card Matching Mock API
 
-## Pre requisite
+## Prerequisite
 #### instasll `pip`
 ```
 sudo apt-get update
